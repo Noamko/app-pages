@@ -1,3 +1,8 @@
 {
-  "apps": {}
+  "apps": {
+    "planterpal": {
+      "name": "PlanterPal"
+    }
+  },
+  "title": "Noam Koren"
 }
